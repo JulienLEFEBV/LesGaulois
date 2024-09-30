@@ -1,4 +1,7 @@
-package personnages;
+package villagegaulois;
+
+import personnages.Chef;
+import personnages.Gaulois;
 
 public class Village {
 	private String nom;
